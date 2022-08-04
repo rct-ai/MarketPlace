@@ -13,5 +13,4 @@ public class NFTViewCell : MonoBehaviour,IViewCell
         throw new System.NotImplementedException();
     }
     
-    
 }
